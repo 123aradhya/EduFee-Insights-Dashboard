@@ -3,11 +3,11 @@
 
 A Data-Driven Power BI Dashboard for Smart Fee Management in Schools
 
-📌 Project Overview
+1.📌 Project Overview
 
 Managing school fee collections can be challenging. This Power BI dashboard provides real-time insights into fee collection, pending balances, payment trends, and student-level details. It helps school administrators make data-driven decisions, ensure financial transparency, and improve collection efficiency.
 
-✅ Key Highlights
+2.✅ Key Highlights
 
 ✔ KPI Overview:
 
@@ -21,7 +21,7 @@ Pending Balance: ₹4.74M
 
 Collection %: 62.44%
 
-✔ Key Analytics:
+3.✔ Key Analytics:
 
 Payment Mode Split: Cash, UPI, Net Banking, Online
 
@@ -37,13 +37,13 @@ Monthly Trend: Jan – Dec Collection Insights
 
 Late vs On-Time Payments: Class-wise and overall
 
-⚙ Tech Stack
+4.⚙ Tech Stack
 
 Power BI – Visualization & Dashboard
 
 Excel / CSV – Data Source
 
-📂 Data Source
+5.📂 Data Source
 
 The data is sourced from school fee records (Excel/CSV) containing details of:
 
@@ -55,62 +55,62 @@ Payment mode & date
 
 Installment details
 
-❓ Key Business Questions Solved
+6.❓ Key Business Questions Solved
 
-What is the overall collection percentage?
+  1.What is the overall collection percentage?
 
-Which payment mode is most popular?
+  2.Which payment mode is most popular?
 
-How much pending balance is left per class?
+  3.How much pending balance is left per class?
 
-Which categories contribute the most revenue?
+  4.Which categories contribute the most revenue?
 
-Who are the late payers vs on-time payers?
+  5.Who are the late payers vs on-time payers?
 
-Which students have the highest pending balances?
+  6.Which students have the highest pending balances?
 
-🚩 Business Problems Addressed
+7.🚩 Business Problems Addressed
 
-Manual fee tracking leading to errors
+  1.Manual fee tracking leading to errors
 
-No clarity on pending vs collected amounts
+  2.No clarity on pending vs collected amounts
 
-Difficulty in identifying late payments
+  3.Difficulty in identifying late payments
 
-Lack of real-time insights for decision-making
+  4.Lack of real-time insights for decision-making
 
-🖼 Key Visuals in Dashboard
+8.🖼 Key Visuals in Dashboard
 
-Overall KPIs: Total Students, Fees Collected, Balance
+  1.Overall KPIs: Total Students, Fees Collected, Balance
 
-Payment Mode Analysis
+  2.Payment Mode Analysis
 
-Class & Category-wise Breakdown
+  3.Class & Category-wise Breakdown
 
-Installment Trend & Monthly Collection
+  4.Installment Trend & Monthly Collection
 
-Late Payment vs On-Time Payment
+  5.Late Payment vs On-Time Payment
 
-Student-Level Details Table
+  6.Student-Level Details Table
 
-🎯 Why This Dashboard?
+9.🎯 Why This Dashboard?
 
 ✅ Simplifies school fee management
 ✅ Provides real-time insights
 ✅ Improves cash flow visibility
 ✅ Helps in timely follow-ups with defaulters
 
-💡 Business Impact
+10.💡 Business Impact
 
-Reduced manual errors & faster reporting
+  1.Reduced manual errors & faster reporting
 
-Better collection planning through data visibility
+  2.Better collection planning through data visibility
 
-Enhanced transparency for school administration
+  3.Enhanced transparency for school administration
 
-Improved financial decision-making
+  4.Improved financial decision-making
 
-## 🖼️ Dashboard Screenshots
+11. 🖼️ Dashboard Screenshots
 
 ### Page 1: Overall Collection & Class-wise Analysis
 ![Page 1](Screenshot%20(623).png)
@@ -118,7 +118,7 @@ Improved financial decision-making
 ### Page 2: Payment Status & Student-Level Analysis
 ![Page 2](Screenshot%20(624).png)
 
-📥 How to Use
+12.📥 How to Use
 
 Download the Power BI template (.pbit) file from this repo.
 
