@@ -96,8 +96,11 @@ Installment details
 9.🎯 Why This Dashboard?
 
 ✅ Simplifies school fee management
+
 ✅ Provides real-time insights
+
 ✅ Improves cash flow visibility
+
 ✅ Helps in timely follow-ups with defaulters
 
 10.💡 Business Impact
